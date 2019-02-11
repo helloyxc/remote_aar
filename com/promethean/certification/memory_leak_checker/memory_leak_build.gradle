@@ -1,0 +1,13 @@
+apply plugin: 'com.android.application'
+
+repositories {
+    maven { url "https://raw.githubusercontent.com/helloyxc/remote_aar/master" }
+}
+
+dependencies {
+    debugImplementation "com.promethean.certification:memory_leak_checker:1.0.1_d"
+    releaseImplementation "com.promethean.certification:memory_leak_checker:1.0.1"
+
+    debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.6.3'
+    releaseImplementation'com.squareup.leakcanary:leakcanary-android-no-op:1.6.3'
+}
