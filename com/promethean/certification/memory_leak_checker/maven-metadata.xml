@@ -3,13 +3,15 @@
   <groupId>com.promethean.certification</groupId>
   <artifactId>memory_leak_checker</artifactId>
   <versioning>
-    <release>1.0.2</release>
+    <release>1.0.3_d</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.1_d</version>
       <version>1.0.2_d</version>
       <version>1.0.2</version>
+      <version>1.0.3</version>
+      <version>1.0.3_d</version>
     </versions>
-    <lastUpdated>20190211034938</lastUpdated>
+    <lastUpdated>20190212084002</lastUpdated>
   </versioning>
 </metadata>
