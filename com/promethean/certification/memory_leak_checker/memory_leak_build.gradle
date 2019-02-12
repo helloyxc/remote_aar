@@ -5,8 +5,8 @@ repositories {
 }
 
 dependencies {
-    debugImplementation "com.promethean.certification:memory_leak_checker:1.0.2_d"
-    releaseImplementation "com.promethean.certification:memory_leak_checker:1.0.2"
+    debugImplementation "com.promethean.certification:memory_leak_checker:1.0.3_d"
+    releaseImplementation "com.promethean.certification:memory_leak_checker:1.0.3"
 
     debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.6.3'
     releaseImplementation'com.squareup.leakcanary:leakcanary-android-no-op:1.6.3'
