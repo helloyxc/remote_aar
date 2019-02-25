@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.promethean.certification</groupId>
+  <artifactId>memory_leak_checker</artifactId>
+  <versioning>
+    <release>1.1.1_d</release>
+    <versions>
+      <version>1.0.1</version>
+      <version>1.0.1_d</version>
+      <version>1.0.2_d</version>
+      <version>1.0.2</version>
+      <version>1.0.3</version>
+      <version>1.0.3_d</version>
+      <version>1.1.0</version>
+      <version>1.1.0_d</version>
+      <version>1.1.1</version>
+      <version>1.1.1_d</version>
+    </versions>
+    <lastUpdated>20190225070448</lastUpdated>
+  </versioning>
+</metadata>
